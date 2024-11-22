@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938027868749",
+    "project_id": "momogram-8e072",
+    "storage_bucket": "momogram-8e072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938027868749:android:48ef2bf0e100111f04f204",
+        "android_client_info": {
+          "package_name": "com.example.momogram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfwdsIfiP5wq8laPFMF00R3NpTqyznHTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
